@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <title>Jawaban Tugas 1: Yurisdiksi & Kedaulatan dalam Hukum Internasional</title>
+    <style>
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.6; color: #333; max-width: 900px; margin: 20px auto; padding: 20px; background-color: #f9f9f9; }
+        h1 { color: #1a3e5c; border-bottom: 2px solid #1a3e5c; padding-bottom: 10px; }
+        h2 { color: #2a5a8a; margin-top: 30px; }
+        h3 { color: #3a6a9a; }
+        .answer-box { background-color: #fff; border-left: 5px solid #2a5a8a; padding: 15px 20px; margin: 20px 0; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
+        .citation { font-size: 0.9em; color: #555; }
+        strong { color: #1a3e5c; }
+        ul, ol { margin-top: 10px; margin-bottom: 10px; }
+        li { margin-bottom: 8px; }
+    </style>
+</head>
+<body>
+
+    <h1>Tugas 1: Analisis Yurisdiksi dan Kedaulatan dalam Hukum Internasional</h1>
+
+    <div class="answer-box">
+        <h2>Pertanyaan 1: Mengapa Konsep Yurisdiksi Memiliki Pengertian yang Berbeda-beda?</h2>
+        <p>
+            Dalam Hukum Internasional, konsep <strong>yurisdiksi</strong> tidak memiliki satu definisi yang tunggal dan seragam. Hal ini disebabkan oleh beberapa faktor mendasar yang berkaitan dengan sifat kompleks dari kekuasaan negara dan konteks penggunaannya.
+        </p>
+        <p>
+            <strong>Pertama, yurisdiksi mencakup spektrum kekuasaan yang berlapis.</strong> Para ahli dan instrumen hukum sering kali membedakan yurisdiksi menjadi tiga jenis utama yang masing-masing memiliki fokus berbeda:
+        </p>
+        <ul>
+            <li><strong>Yurisdiksi Legislatif (Prescriptive Jurisdiction):</strong> Kekuasaan negara untuk menetapkan aturan atau hukum yang mengatur perilaku. Ini adalah manifestasi paling dasar dari yurisdiksi.[reference:0]</li>
+            <li><strong>Yurisdiksi Yudisial (Adjudicative Jurisdiction):</strong> Kewenangan negara (melalui pengadilannya) untuk menentukan hak dan kewajiban para pihak dalam suatu kasus tertentu berdasarkan hukumnya.[reference:1]</li>
+            <li><strong>Yurisdiksi Eksekutif (Enforcement Jurisdiction):</strong> Kekuasaan negara untuk memastikan kepatuhan terhadap hukumnya, misalnya melalui tindakan kepolisian atau pemaksaan.[reference:2]</li>
+        </ul>
+        <p>
+            Perbedaan penekanan pada salah satu aspek ini sering kali menghasilkan definisi yang berbeda. Sebagai contoh, ada yang mendefinisikan yurisdiksi secara luas sebagai "kekuasaan sah suatu Negara untuk bertindak" (the lawful power of a State to act).[reference:3] Sementara itu, sarjana lain seperti F.A. Mann mendefinisikannya secara lebih spesifik sebagai "hak negara berdasarkan hukum internasional untuk mengatur perilaku dalam hal-hal yang tidak sepenuhnya merupakan urusan domestik".[reference:4]
+        </p>
+        <p>
+            <strong>Kedua, yurisdiksi dapat merujuk pada subjek yang berbeda.</strong> Istilah ini tidak hanya berlaku untuk negara. Dalam konteks peradilan internasional, "yurisdiksi" merujuk pada kewenangan suatu mahkamah (seperti Mahkamah Internasional) untuk memeriksa dan memutus suatu sengketa atau memberikan opini nasihat. Oleh karena itu, definisi yurisdiksi untuk negara akan berbeda dengan definisi yurisdiksi untuk organisasi internasional.
+        </p>
+        <p>
+            <strong>Ketiga, adanya perbedaan perspektif teoretis.</strong> Cara pandang terhadap hubungan antara yurisdiksi dan kedaulatan juga memengaruhi definisinya. Dalam pandangan positivistik klasik, yurisdiksi dipandang sebagai aspek dari kedaulatan <em>a priori</em> yang dimiliki negara.[reference:6] Sementara itu, pandangan modern melihat yurisdiksi sebagai kompetensi hukum yang diberikan dan dibatasi oleh hukum internasional itu sendiri.[reference:7] Perbedaan landasan filosofis ini tentu saja menghasilkan rumusan pengertian yang tidak sama.
+        </p>
+        <p>
+            Dengan demikian, keragaman pengertian yurisdiksi adalah cerminan dari kompleksitas konsep itu sendiri, yang mencakup berbagai jenis kekuasaan, berlaku untuk subjek yang berbeda (negara dan organisasi internasional), dan dipengaruhi oleh berbagai aliran pemikiran dalam hukum internasional.
+        </p>
+    </div>
+
+    <div class="answer-box">
+        <h2>Pertanyaan 2: Secara Teori dan Praktik, Apakah Yurisdiksi Muncul Setelah Kedaulatan atau Sebaliknya?</h2>
+        <p>
+            Hubungan antara yurisdiksi dan kedaulatan bukanlah hubungan kausalitas searah yang sederhana (seperti "A menyebabkan B"). Secara teori dan praktik, keduanya memiliki hubungan yang saling terkait erat (<em>intertwined</em>), namun jawabannya sangat bergantung pada kerangka teoretis yang digunakan.
+        </p>
+
+        <h3>Perspektif Teoretis</h3>
+        <p>
+            <strong>1. Pandangan Tradisional/Positivistik: Yurisdiksi sebagai Aspek Kedaulatan.</strong> Dalam pemahaman klasik yang berakar pada konsepsi Westphalia, kedaulatan dipandang sebagai nilai <em>a priori</em>—sesuatu yang sudah ada lebih dulu dan menjadi dasar bagi segala hak dan kekuasaan negara.[reference:8] Dalam kerangka ini, yurisdiksi dianggap sebagai <strong>aspek atau emanasi dari kedaulatan</strong>. Hak untuk menetapkan dan menegakkan hukum (yurisdiksi) adalah komponen esensial dari status kenegaraan (kedaulatan).[reference:9] Oleh karena itu, secara logis, kedaulatan harus ada terlebih dahulu sebagai sumber legitimasi, baru kemudian yurisdiksi dapat dijalankan sebagai manifestasinya.
+        </p>
+        <p>
+            <strong>2. Pandangan Modern: Kedaulatan sebagai Produk Hukum.</strong> Berbeda dengan pandangan di atas, para sarjana modern berpendapat bahwa kedaulatan tidaklah berada "di atas" hukum internasional. Sebaliknya, kedaulatan adalah seperangkat atribut hukum yang diberikan kepada negara oleh hukum internasional itu sendiri.[reference:10] Dalam kerangka ini, aturan-aturan hukum internasional tentang yurisdiksilah yang mendefinisikan dan membatasi kompetensi negara. Maka, dapat dikatakan bahwa <strong>yurisdiksi (sebagai kompetensi hukum yang diatur) justru menjadi fondasi yang memberi bentuk pada kedaulatan</strong>. Tanpa aturan yurisdiksi, tidak akan ada parameter untuk mengetahui apa saja hak dan kewajiban sebuah negara berdaulat.
+        </p>
+        <p>
+            <strong>3. Pemisahan Konseptual.</strong> Beberapa ahli mencoba memisahkan keduanya untuk tujuan analisis. Ian Brownlie, misalnya, membedakan <strong>kedaulatan</strong> sebagai "status kenegaraan" (<em>status of statehood</em>) dari <strong>yurisdiksi</strong> sebagai "hak dan kekuasaan negara atas wilayah tertentu" (<em>rights and powers of a state over a particular territory</em>).[reference:11] James Crawford juga melihat kedaulatan sebagai "jati diri hukum" (<em>legal personality</em>) dan yurisdiksi sebagai aspek-aspek spesifik dari hak dan klaim negara.[reference:12]
+        </p>
+
+        <h3>Perspektif Praktik</h3>
+        <p>
+            Dalam praktiknya, hubungan antara keduanya tidak selalu berurutan secara kronologis. Praktik negara menunjukkan bahwa yurisdiksi dapat eksis tanpa kedaulatan penuh, dan sebaliknya.
+        </p>
+        <ul>
+            <li><strong>Yurisdiksi tanpa Kedaulatan Penuh:</strong> Sebuah negara dapat memiliki yurisdiksi <em>de facto</em> (berdasarkan fakta) atas suatu wilayah tanpa memiliki kedaulatan <em>de jure</em> (berdasarkan hukum) yang sah. Contohnya adalah pendudukan militer atau wilayah yang dipercayakan (trusteeship). Dalam kasus seperti ini, kekuasaan untuk mengatur (yurisdiksi) ada, tetapi status kedaulatan finalnya belum atau tidak dimiliki.[reference:13]</li>
+            <li><strong>Kedaulatan tanpa Yurisdiksi Efektif:</strong> Sebuah negara yang sedang mengalami keruntuhan (failed state) mungkin tetap diakui sebagai entitas berdaulat secara hukum internasional, tetapi pemerintahannya tidak lagi memiliki yurisdiksi efektif untuk menegakkan hukum di seluruh wilayahnya. Contoh historisnya adalah Jerman setelah Perang Dunia II, yang masih memiliki status kedaulatan tetapi kekuasaan yurisdiksinya dijalankan oleh kekuatan pendudukan.[reference:14]</li>
+        </ul>
+        <p>
+            <strong>Kesimpulan:</strong> Secara teoretis, urutan kemunculan yurisdiksi dan kedaulatan bergantung pada paradigma yang dianut. Kaum positivistik melihat yurisdiksi sebagai turunan dari kedaulatan yang sudah ada, sementara kaum modern melihat yurisdiksi sebagai kerangka hukum yang mendefinisikan kedaulatan. Secara praktis, keduanya adalah konsep yang saling terkait erat namun dapat dipisahkan; yurisdiksi dapat hadir tanpa kedaulatan penuh, dan kedaulatan dapat hadir tanpa yurisdiksi yang efektif.
+        </p>
+    </div>
+
+</body>
+</html>
